@@ -1,0 +1,72 @@
+Abbreviation,Name,Professors
+  ALGO ,Algorithmics Laboratory,Prof. A. Shokrollahi
+  CHILI ,Computer-Human Interaction Lab for Learning & Instruction,Prof. P. Dillenbourg
+  CVLAB ,Computer Vision Laboratory,"Prof. P. Fua, M. Salzmann"
+  DATA ,Data Analysis Theory and Applications Laboratory,Prof. Ch. Koch
+  DCSL ,Data Center Systems Laboratory,Prof. E. Bugnion
+  DEDIS ,Decentralized and Distributed Systems Lab,Prof. B. Ford
+  DIAS ,Data-Intensive Applications and Systems Laboratory,"Prof. A. Ailamaki, Dr. O. Papapetrou"
+  DISOPT ,Discrete Optimization Group (IC/SV),Prof. F. Eisenbrand
+  DLAB ,Data Science Laboratory,Prof. R. West
+  DSLAB ,Dependable Systems Laboratory,Prof. G. Candea
+  Group Prof. M. Rajman ,Group Prof. M. Rajman,Prof. M. Rajman
+  HCI ,Human-Computer Interaction Group,MER P. Pu Faltings
+  IIG ,Immersive Interaction Group,MER R. Boulic
+  IVRL ,Images and Visual Representation Laboratory,Prof. Sabine Süsstrunk
+  LABOS ,Operating Systems Laboratory,Prof. W. Zwaenepoel
+  LACAL ,Laboratory for cryptologic algorithms,Prof. A. Lenstra
+  LAMP ,Programming Methods Laboratory,Prof. M. Odersky
+  LAMS ,Systemic Modeling Laboratory,"Profs J.-D. Decotignie, A. Wegmann"
+  LAP ,Processor Architecture Laboratory,"Profs P. Ienne, R. Beuchat"
+  LARA ,Laboratory for Automated Reasoning and Analysis,Prof. V. Kuncak
+  LASEC ,Security and Cryptography Laboratory,Prof. S. Vaudenay
+  LCA1 ,Computer Communications and Applications Laboratory 1,Prof. J.-P. Hubaux
+  LCA2 ,Computer Communications and Applications Laboratory 2,Prof. J-Y. Le Boudec
+  LCA3 ,Computer Communications and Applications Laboratory 3,Prof. P. Thiran
+  LCA4 ,Computer Communications and Applications Laboratory 4,Prof. M. Grossglauser
+  LCAV ,Audiovisual Communications Laboratory,"Dr. A. Scholefield, Dr. C. Faller, Dr. M. Kolundzija"
+  LCM ,Mobile Communications Laboratory,Prof. B. Rimoldi
+  LCN ,Computational Neuroscience Laboratory (IC/SV),Prof. W. Gerstner
+  LDM ,Media and Design Laboratory (IC/ENAC),Prof. J. Huang
+  LGG ,Computer Graphics and Geometry Laboratory,Prof. M. Pauly
+  LIA ,Artificial Intelligence Laboratory,Prof. B. Faltings
+  LINX ,Laboratory for Information in Networked Systems,Prof. M. Gastpar
+  LPD ,Distributed Programming Laboratory,Prof. R. Guerraoui
+  LSI ,Integrated Systems Laboratory (IC/STI),Prof. G. De Micheli
+  LSIR ,Distributed Information Systems Laboratory,Prof. K. Aberer
+  LTHC ,Communication Theory Laboratory,"Prof. R. Urbanke, N. Macris"
+  LTHI ,Information Theory Laboratory,"Prof. E. Telatar, O. Lévêque"
+  MEDIA ,Models and Environments for Document-based Interaction and Authoring,Dr C. Vanoirbeek
+  MLO ,Machine Learning and Optimization Laboratory,Prof. M. Jaggi
+  NAL ,Network Architecture Laboratory,Prof. K. Argyraki
+  PARSA ,Parrallel Systems Architecture Laboratory,Prof. B. Falsafi
+  PARSA BIS ,PARSA BIS,Dr. Mirjana Stojilovic
+  RGL ,Realistic Graphics Laboratory,Prof. W. Jakob
+  SDSC-GE ,Swiss Data Science Center,Dr. O. Verscheure
+  SUPRA ,Applied superconductivity,MER B. Dutoit
+  THL2 ,Theory of computation Laboratory 2,Prof. O. N. A. Svensson
+  THL3 ,Theory of Computation Laboratory 3,Prof. N. Vishnoi
+  THL4 ,Theory of Computation Laboratory 4,Prof. M. Kapralov
+  UPSALATHE 1 ,Laboratory of Digital Epidemiology,Prof. M. Salathé
+  VLSC ,Very Large Scale Computing Laboratory,Prof. J. Larus
+  BIOROB ,Biorobotics Laboratory,Prof. A. Ijspeert
+  CNBI ,Defitech Foundation Chair in Brain-machine Interface - only for Master thesis,Kyuhwa Lee
+  LIB ,Biomedical imaging Laboratory,Prof. M. Unser
+  LIDIAP ,L'IDIAP Laboratory,"Prof. H. Bourlard, Prof. D. Gatica-Perez, MER F. Fleuret, MER J.-M. Odobez"
+  LIONS ,Laboratory for Information and Inference Systems,Prof. Volkan Cevher
+  LIS ,Laboratory of Intelligent Systems,Prof. D. Floreano
+  LMAM ,Laboratory of Movement Analysis and Measurement,Prof. K. Aminian
+  LMIS2 ,Laboratory of Microsystems,"Prof. M. Gijs, Dr. M. Cornaglia"
+  LSM ,Microelectronic Systems Laboratory,Prof. Y. Leblebici
+  LTS2 ,Signal Processing Laboratory 2,Prof. P. Vandergheynst
+  LTS4 ,Signal Processing Laboratory 4,Prof. P. Frossard
+  LTS5 ,Signal Processing Laboratory 5,Prof. J-P. Thiran
+  MIPLAB ,Medical Image Processing Laboratory,Prof. D. Van de Ville
+  MMSPL ,Multimedia Signal Processing Group,Prof. T. Ebrahimi
+  TCL ,Telecommunications Circuits Laboratory,Prof. A. Burg
+  UPRAMDYA ,Neuroengineering Laboratory Ramdya,Prof. Pavan Ramdya
+  DISAL ,Distributed Intelligent Systems and Algorithms Laboratory,Prof. A. Martinoli
+  TRANSP-OR ,Transportation and Mobility Laboratory,Prof. M. Bierlaire
+  VITA ,Visual Intelligence for Transportation,Prof. A. Alahi
+  DHLAB ,Digital Humanities Laboratory,Prof. F. Kaplan
+  IIPP ,Chair of Innovation and IP Policy,David Portabella Clotet
