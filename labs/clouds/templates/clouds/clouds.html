@@ -1,0 +1,16 @@
+{% extends 'clouds/base.html' %}
+{% block content %}
+<center>
+{% for l in labs %}
+<p>
+<h1>{{ l.short }} ({{ l.full }})</h1>
+<h3>{{ l.profs }}</h3>
+{% if l.image_path %}
+<img style="height: 590px" src="/static/images/{{ l.image_path }}" />
+{% else %}
+<p>Download failed, please search manually</p>
+{% endif %}
+</p><hr />
+{% endfor %}
+</center>
+{% endblock %}
